@@ -12,4 +12,5 @@ Olá, Seja nem vindo ao meu repositório.
   <img src="https://github-readme-stats.vercel.app/api?username=estaciorenan&show_icons=true" />
 </picture>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='100px'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/html-original.svg" width='50px'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='50px'/>
