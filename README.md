@@ -13,4 +13,5 @@ Olá, Seja nem vindo ao meu repositório.
 </picture>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/html-original.svg" width='50px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='50px'/>
+<img src="https://icons8.com.br/icon/71257/angularjs" width='50px'/>
+<img src="https://icons8.com.br/icon/BUnExfsRs3CW/vuejs" width='50px'/>
